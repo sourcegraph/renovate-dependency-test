@@ -1,0 +1,1 @@
+# renovate-dependency-test
