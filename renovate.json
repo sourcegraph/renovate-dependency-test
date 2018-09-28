@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/renovate",
+  "packageRules": [
+    {
+      "packageNames": ["github.com/pkg/errors", "lodash"],
+      "groupName": "demogroup"
+    }
+  ]
+}
